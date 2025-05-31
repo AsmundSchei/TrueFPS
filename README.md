@@ -1,4 +1,4 @@
-# True FPS Template
+# True FPS template
 True FPS template for UnrealEngine, with weapon pickups. Done with blueprints (5.4)
 
 ![image](https://github.com/user-attachments/assets/06d052c5-7823-4c5d-a141-1052be956a1e)
