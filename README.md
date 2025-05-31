@@ -1,7 +1,7 @@
 # True FPS template
-True FPS template for UnrealEngine, with weapon pickups. Done with blueprints (5.4)
+True FPS template for UnrealEngine, with weapon pickups. Done with blueprints (5.4).
 
-# Known issues:
+Known issues:
 Animations only works properly, if you pickup with rifle first.
 
 
