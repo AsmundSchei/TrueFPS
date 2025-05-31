@@ -2,6 +2,7 @@
 True FPS template for UnrealEngine, with weapon pickups. Done with blueprints (5.4).
 
 Known issues:
+
 Animations only works properly, if you pickup the rifle first.
 Jumping animation dont stop, if you look down during jumping.
 
