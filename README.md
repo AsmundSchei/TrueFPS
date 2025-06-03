@@ -10,6 +10,6 @@ Size: 1.85gb.
 * Lefthand IK is janky, because aimoffset setup
 
 
-![image](https://github.com/user-attachments/assets/d647394e-25ce-4f0a-9f10-383c12e1f063)
+![image](https://github.com/user-attachments/assets/35288c07-4800-4200-88a2-400366f62437)
 
-![image](https://github.com/user-attachments/assets/77e095d1-14ce-4afc-ae22-96e4863ce0c3)
+![image](https://github.com/user-attachments/assets/b5c76948-6910-4363-891d-932f3ea4794f)
