@@ -1,5 +1,5 @@
 # True FPS template
-True FPS template for UnrealEngine, with weapon pickups. Done with blueprints (5.4).
+True FPS template for UnrealEngine 5, with weapon pickups. Done with blueprints (5.4).
 Press F, to interact with objects. Using free resources, from Epic Games. 
 Size: 1.85gb.
 
