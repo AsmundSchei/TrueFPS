@@ -3,7 +3,7 @@ True FPS template for UnrealEngine, with weapon pickups. Done with blueprints (5
 Press F, to interact with objects. Using free resources, from Epic Games. 
 Size: 1.85gb.
 
-**Known issues:
+**Known issues:**
 
 * Animations only works properly, if you pickup the rifle first (Fixed) 
 * Jumping animation dont stop, if you look down during jumping
