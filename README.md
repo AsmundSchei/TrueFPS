@@ -1,5 +1,6 @@
 # True FPS template
 True FPS template for UnrealEngine, with weapon pickups. Done with blueprints (5.4).
+Press F, to interact with objects.
 
 Known issues:
 
